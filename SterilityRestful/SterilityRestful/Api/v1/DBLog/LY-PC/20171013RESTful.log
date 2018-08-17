@@ -1,0 +1,40 @@
+2017/10/13 13:44:03	::1             	ERR	                                                            	数据库连接失败！ error information : Cache Security Error
+   在 InterSystems.Data.CacheClient.CacheADOConnection.Open()
+   在 InterSystems.Data.CacheClient.CacheConnection.Open(Boolean useCache)
+   在 InterSystems.Data.CacheClient.CacheConnection.Open()
+   在 SterilityRestful.CommonLibrary.DataConnection.Connect() 位置 e:\Program\task\2016.7重大仪器专项\2016-3-8 重大仪器专项（高性能智能化食品药品无菌检测仪）\SterilityRestful\SterilityRestful\SterilityRestful\CommonLibrary\DataConnection.cs:行号 44
+2017/10/13 13:44:03	::1             	ERR	ItemInfoMethod.ItemSampleGetSamplesInfoByAnyProperty        	数据库操作异常！ error information : Cache Security Error
+   在 SterilityRestful.CommonLibrary.DataConnection.Connect() 位置 e:\Program\task\2016.7重大仪器专项\2016-3-8 重大仪器专项（高性能智能化食品药品无菌检测仪）\SterilityRestful\SterilityRestful\SterilityRestful\CommonLibrary\DataConnection.cs:行号 50
+   在 SterilityRestful.DataMethod.ItemInfoMethod.ItemSampleGetSamplesInfoByAnyProperty(DataConnection pclsCache, String ObjectNo, String ObjCompany, String ObjIncuSeq, String ObjectName, String ObjectType, String SamplingPeople, String SamplingTimeS, String SamplingTimeE, String Warning, String ReDateTimeS, String ReDateTimeE, String ReTerminalIP, String ReTerminalName, String ReUserId, String ReIdentify, Int32 GetObjectName, Int32 GetObjectType, Int32 GetSamplingPeople, Int32 GetSamplingTime, Int32 GetWarning, Int32 GetRevisionInfo) 位置 e:\Program\task\2016.7重大仪器专项\2016-3-8 重大仪器专项（高性能智能化食品药品无菌检测仪）\SterilityRestful\SterilityRestful\SterilityRestful\DataMethod\ItemInfoMethod.cs:行号 468
+2017/10/13 13:44:15	::1             	ERR	                                                            	数据库连接失败！ error information : Cache Security Error
+   在 InterSystems.Data.CacheClient.CacheADOConnection.Open()
+   在 InterSystems.Data.CacheClient.CacheConnection.Open(Boolean useCache)
+   在 InterSystems.Data.CacheClient.CacheConnection.Open()
+   在 SterilityRestful.CommonLibrary.DataConnection.Connect() 位置 e:\Program\task\2016.7重大仪器专项\2016-3-8 重大仪器专项（高性能智能化食品药品无菌检测仪）\SterilityRestful\SterilityRestful\SterilityRestful\CommonLibrary\DataConnection.cs:行号 44
+2017/10/13 13:44:15	::1             	ERR	ItemInfoMethod.ItemSampleGetSamplesInfoByAnyProperty        	数据库操作异常！ error information : Cache Security Error
+   在 SterilityRestful.CommonLibrary.DataConnection.Connect() 位置 e:\Program\task\2016.7重大仪器专项\2016-3-8 重大仪器专项（高性能智能化食品药品无菌检测仪）\SterilityRestful\SterilityRestful\SterilityRestful\CommonLibrary\DataConnection.cs:行号 50
+   在 SterilityRestful.DataMethod.ItemInfoMethod.ItemSampleGetSamplesInfoByAnyProperty(DataConnection pclsCache, String ObjectNo, String ObjCompany, String ObjIncuSeq, String ObjectName, String ObjectType, String SamplingPeople, String SamplingTimeS, String SamplingTimeE, String Warning, String ReDateTimeS, String ReDateTimeE, String ReTerminalIP, String ReTerminalName, String ReUserId, String ReIdentify, Int32 GetObjectName, Int32 GetObjectType, Int32 GetSamplingPeople, Int32 GetSamplingTime, Int32 GetWarning, Int32 GetRevisionInfo) 位置 e:\Program\task\2016.7重大仪器专项\2016-3-8 重大仪器专项（高性能智能化食品药品无菌检测仪）\SterilityRestful\SterilityRestful\SterilityRestful\DataMethod\ItemInfoMethod.cs:行号 468
+2017/10/13 13:44:40	::1             	ERR	                                                            	数据库连接失败！ error information : Cache Security Error
+   在 InterSystems.Data.CacheClient.CacheADOConnection.Open()
+   在 InterSystems.Data.CacheClient.CacheConnection.Open(Boolean useCache)
+   在 InterSystems.Data.CacheClient.CacheConnection.Open()
+   在 SterilityRestful.CommonLibrary.DataConnection.Connect() 位置 e:\Program\task\2016.7重大仪器专项\2016-3-8 重大仪器专项（高性能智能化食品药品无菌检测仪）\SterilityRestful\SterilityRestful\SterilityRestful\CommonLibrary\DataConnection.cs:行号 44
+2017/10/13 13:44:51	::1             	ERR	ItemInfoMethod.ItemSampleGetSamplesInfoByAnyProperty        	数据库操作异常！ error information : Cache Security Error
+   在 SterilityRestful.CommonLibrary.DataConnection.Connect() 位置 e:\Program\task\2016.7重大仪器专项\2016-3-8 重大仪器专项（高性能智能化食品药品无菌检测仪）\SterilityRestful\SterilityRestful\SterilityRestful\CommonLibrary\DataConnection.cs:行号 50
+   在 SterilityRestful.DataMethod.ItemInfoMethod.ItemSampleGetSamplesInfoByAnyProperty(DataConnection pclsCache, String ObjectNo, String ObjCompany, String ObjIncuSeq, String ObjectName, String ObjectType, String SamplingPeople, String SamplingTimeS, String SamplingTimeE, String Warning, String ReDateTimeS, String ReDateTimeE, String ReTerminalIP, String ReTerminalName, String ReUserId, String ReIdentify, Int32 GetObjectName, Int32 GetObjectType, Int32 GetSamplingPeople, Int32 GetSamplingTime, Int32 GetWarning, Int32 GetRevisionInfo) 位置 e:\Program\task\2016.7重大仪器专项\2016-3-8 重大仪器专项（高性能智能化食品药品无菌检测仪）\SterilityRestful\SterilityRestful\SterilityRestful\DataMethod\ItemInfoMethod.cs:行号 468
+2017/10/13 15:02:23	::1             	ERR	                                                            	数据库连接失败！ error information : Cache Security Error
+   在 InterSystems.Data.CacheClient.CacheADOConnection.Open()
+   在 InterSystems.Data.CacheClient.CacheConnection.Open(Boolean useCache)
+   在 InterSystems.Data.CacheClient.CacheConnection.Open()
+   在 SterilityRestful.CommonLibrary.DataConnection.Connect() 位置 e:\Program\task\2016.7重大仪器专项\2016-3-8 重大仪器专项（高性能智能化食品药品无菌检测仪）\SterilityRestful\SterilityRestful\SterilityRestful\CommonLibrary\DataConnection.cs:行号 44
+2017/10/13 15:02:23	::1             	ERR	ItemInfoMethod.ItemReagentSetData                           	数据库操作异常！ error information : Cache Security Error
+   在 SterilityRestful.CommonLibrary.DataConnection.Connect() 位置 e:\Program\task\2016.7重大仪器专项\2016-3-8 重大仪器专项（高性能智能化食品药品无菌检测仪）\SterilityRestful\SterilityRestful\SterilityRestful\CommonLibrary\DataConnection.cs:行号 50
+   在 SterilityRestful.DataMethod.ItemInfoMethod.ItemReagentSetData(DataConnection pclsCache, String ReagentId, String ReagentSource, String ReagentName, String TerminalIP, String TerminalName, String revUserId) 位置 e:\Program\task\2016.7重大仪器专项\2016-3-8 重大仪器专项（高性能智能化食品药品无菌检测仪）\SterilityRestful\SterilityRestful\SterilityRestful\DataMethod\ItemInfoMethod.cs:行号 272
+2017/10/13 15:02:56	::1             	ERR	                                                            	数据库连接失败！ error information : Cache Security Error
+   在 InterSystems.Data.CacheClient.CacheADOConnection.Open()
+   在 InterSystems.Data.CacheClient.CacheConnection.Open(Boolean useCache)
+   在 InterSystems.Data.CacheClient.CacheConnection.Open()
+   在 SterilityRestful.CommonLibrary.DataConnection.Connect() 位置 e:\Program\task\2016.7重大仪器专项\2016-3-8 重大仪器专项（高性能智能化食品药品无菌检测仪）\SterilityRestful\SterilityRestful\SterilityRestful\CommonLibrary\DataConnection.cs:行号 44
+2017/10/13 15:03:05	::1             	ERR	ItemInfoMethod.ItemReagentSetData                           	数据库操作异常！ error information : Cache Security Error
+   在 SterilityRestful.CommonLibrary.DataConnection.Connect() 位置 e:\Program\task\2016.7重大仪器专项\2016-3-8 重大仪器专项（高性能智能化食品药品无菌检测仪）\SterilityRestful\SterilityRestful\SterilityRestful\CommonLibrary\DataConnection.cs:行号 50
+   在 SterilityRestful.DataMethod.ItemInfoMethod.ItemReagentSetData(DataConnection pclsCache, String ReagentId, String ReagentSource, String ReagentName, String TerminalIP, String TerminalName, String revUserId) 位置 e:\Program\task\2016.7重大仪器专项\2016-3-8 重大仪器专项（高性能智能化食品药品无菌检测仪）\SterilityRestful\SterilityRestful\SterilityRestful\DataMethod\ItemInfoMethod.cs:行号 272

@@ -1,0 +1,10 @@
+2018/05/23 21:40:03	::1             	ERR	ResultMethod.BreakDownSetData                               	数据库操作异常！ error information : CacheDateTime overflow. Must be between 12/31/1840 12:00:00 AM and 12/31/9999 11:59:59 PM.
+   在 InterSystems.Data.CacheTypes.CacheDateTime..ctor(DateTime p_value)
+   在 InterSystems.Data.CacheClient.ObjBind.IO.MsgWriter.PutNext(Nullable`1 val)
+   在 InterSystems.Data.CacheTypes.CacheTimestampArgument.PutNext(MsgWriter writer)
+   在 InterSystems.Data.CacheClient.CacheConnection.PutMtdSignature(CacheMethodSignature s)
+   在 InterSystems.Data.CacheClient.CacheConnection.MsgRunMethod(Int64 oref, String clsName, String mtdName, CacheMethodSignature s)
+   在 InterSystems.Data.CacheClient.CacheConnection.RunClassMethod(String clsName, String mtdName, CacheMethodSignature s)
+   在 InterSystems.Data.CacheTypes.CacheObject.RunClassMethodS(CacheConnection conn, String clsName, String mtdName, CacheMethodSignature s)
+   在 Rs.BreakDown.SetData(CacheConnection conn, String BreakId, Nullable`1 BreakTime, String BreakEquip, String BreakPara, String BreakValue, String BreakReason, Nullable`1 ResponseTime)
+   在 SterilityRestful.DataMethod.ResultMethod.BreakDownSetData(DataConnection pclsCache, String BreakId, DateTime BreakTime, String BreakEquip, String BreakPara, String BreakValue, String BreakReason, DateTime ResponseTime) 位置 e:\Program\task\2016.7重大仪器专项\2016-3-8重大仪器专项（高性能智能化食品药品无菌检测仪）\SterilityRestful\SterilityRestful\SterilityRestful\DataMethod\ResultMethod.cs:行号 700

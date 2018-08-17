@@ -1,0 +1,286 @@
+E:\Program\task\2016.7重大仪器专项\2016-3-8 重大仪器专项（高性能智能化食品药品无菌检测仪）\2017\SterilityRestful\SterilityRestful\SterilityRestful\obj\Debug\SterilityRestful.csprojResolveAssemblyReference.cache
+E:\Program\task\2016.7重大仪器专项\2016-3-8 重大仪器专项（高性能智能化食品药品无菌检测仪）\2017\SterilityRestful\SterilityRestful\SterilityRestful\bin\SterilityRestful.dll.config
+E:\Program\task\2016.7重大仪器专项\2016-3-8 重大仪器专项（高性能智能化食品药品无菌检测仪）\2017\SterilityRestful\SterilityRestful\SterilityRestful\bin\SterilityRestful.dll
+E:\Program\task\2016.7重大仪器专项\2016-3-8 重大仪器专项（高性能智能化食品药品无菌检测仪）\2017\SterilityRestful\SterilityRestful\SterilityRestful\bin\SterilityRestful.pdb
+E:\Program\task\2016.7重大仪器专项\2016-3-8 重大仪器专项（高性能智能化食品药品无菌检测仪）\2017\SterilityRestful\SterilityRestful\SterilityRestful\bin\Antlr3.Runtime.dll
+E:\Program\task\2016.7重大仪器专项\2016-3-8 重大仪器专项（高性能智能化食品药品无菌检测仪）\2017\SterilityRestful\SterilityRestful\SterilityRestful\bin\Microsoft.Web.Infrastructure.dll
+E:\Program\task\2016.7重大仪器专项\2016-3-8 重大仪器专项（高性能智能化食品药品无菌检测仪）\2017\SterilityRestful\SterilityRestful\SterilityRestful\bin\Newtonsoft.Json.dll
+E:\Program\task\2016.7重大仪器专项\2016-3-8 重大仪器专项（高性能智能化食品药品无菌检测仪）\2017\SterilityRestful\SterilityRestful\SterilityRestful\bin\System.Net.Http.Formatting.dll
+E:\Program\task\2016.7重大仪器专项\2016-3-8 重大仪器专项（高性能智能化食品药品无菌检测仪）\2017\SterilityRestful\SterilityRestful\SterilityRestful\bin\System.Web.Cors.dll
+E:\Program\task\2016.7重大仪器专项\2016-3-8 重大仪器专项（高性能智能化食品药品无菌检测仪）\2017\SterilityRestful\SterilityRestful\SterilityRestful\bin\System.Web.Helpers.dll
+E:\Program\task\2016.7重大仪器专项\2016-3-8 重大仪器专项（高性能智能化食品药品无菌检测仪）\2017\SterilityRestful\SterilityRestful\SterilityRestful\bin\System.Web.Http.Cors.dll
+E:\Program\task\2016.7重大仪器专项\2016-3-8 重大仪器专项（高性能智能化食品药品无菌检测仪）\2017\SterilityRestful\SterilityRestful\SterilityRestful\bin\System.Web.Http.dll
+E:\Program\task\2016.7重大仪器专项\2016-3-8 重大仪器专项（高性能智能化食品药品无菌检测仪）\2017\SterilityRestful\SterilityRestful\SterilityRestful\bin\System.Web.Http.WebHost.dll
+E:\Program\task\2016.7重大仪器专项\2016-3-8 重大仪器专项（高性能智能化食品药品无菌检测仪）\2017\SterilityRestful\SterilityRestful\SterilityRestful\bin\System.Web.Mvc.dll
+E:\Program\task\2016.7重大仪器专项\2016-3-8 重大仪器专项（高性能智能化食品药品无菌检测仪）\2017\SterilityRestful\SterilityRestful\SterilityRestful\bin\System.Web.Optimization.dll
+E:\Program\task\2016.7重大仪器专项\2016-3-8 重大仪器专项（高性能智能化食品药品无菌检测仪）\2017\SterilityRestful\SterilityRestful\SterilityRestful\bin\System.Web.Razor.dll
+E:\Program\task\2016.7重大仪器专项\2016-3-8 重大仪器专项（高性能智能化食品药品无菌检测仪）\2017\SterilityRestful\SterilityRestful\SterilityRestful\bin\System.Web.WebPages.Deployment.dll
+E:\Program\task\2016.7重大仪器专项\2016-3-8 重大仪器专项（高性能智能化食品药品无菌检测仪）\2017\SterilityRestful\SterilityRestful\SterilityRestful\bin\System.Web.WebPages.dll
+E:\Program\task\2016.7重大仪器专项\2016-3-8 重大仪器专项（高性能智能化食品药品无菌检测仪）\2017\SterilityRestful\SterilityRestful\SterilityRestful\bin\System.Web.WebPages.Razor.dll
+E:\Program\task\2016.7重大仪器专项\2016-3-8 重大仪器专项（高性能智能化食品药品无菌检测仪）\2017\SterilityRestful\SterilityRestful\SterilityRestful\bin\WebGrease.dll
+E:\Program\task\2016.7重大仪器专项\2016-3-8 重大仪器专项（高性能智能化食品药品无菌检测仪）\2017\SterilityRestful\SterilityRestful\SterilityRestful\bin\System.Web.Http.Cors.xml
+E:\Program\task\2016.7重大仪器专项\2016-3-8 重大仪器专项（高性能智能化食品药品无菌检测仪）\2017\SterilityRestful\SterilityRestful\SterilityRestful\bin\Newtonsoft.Json.xml
+E:\Program\task\2016.7重大仪器专项\2016-3-8 重大仪器专项（高性能智能化食品药品无菌检测仪）\2017\SterilityRestful\SterilityRestful\SterilityRestful\bin\System.Net.Http.Formatting.xml
+E:\Program\task\2016.7重大仪器专项\2016-3-8 重大仪器专项（高性能智能化食品药品无菌检测仪）\2017\SterilityRestful\SterilityRestful\SterilityRestful\bin\System.Web.Helpers.xml
+E:\Program\task\2016.7重大仪器专项\2016-3-8 重大仪器专项（高性能智能化食品药品无菌检测仪）\2017\SterilityRestful\SterilityRestful\SterilityRestful\bin\System.Web.Http.xml
+E:\Program\task\2016.7重大仪器专项\2016-3-8 重大仪器专项（高性能智能化食品药品无菌检测仪）\2017\SterilityRestful\SterilityRestful\SterilityRestful\bin\System.Web.Http.WebHost.xml
+E:\Program\task\2016.7重大仪器专项\2016-3-8 重大仪器专项（高性能智能化食品药品无菌检测仪）\2017\SterilityRestful\SterilityRestful\SterilityRestful\bin\System.Web.Mvc.xml
+E:\Program\task\2016.7重大仪器专项\2016-3-8 重大仪器专项（高性能智能化食品药品无菌检测仪）\2017\SterilityRestful\SterilityRestful\SterilityRestful\bin\System.Web.Optimization.xml
+E:\Program\task\2016.7重大仪器专项\2016-3-8 重大仪器专项（高性能智能化食品药品无菌检测仪）\2017\SterilityRestful\SterilityRestful\SterilityRestful\bin\System.Web.Razor.xml
+E:\Program\task\2016.7重大仪器专项\2016-3-8 重大仪器专项（高性能智能化食品药品无菌检测仪）\2017\SterilityRestful\SterilityRestful\SterilityRestful\bin\System.Web.WebPages.xml
+E:\Program\task\2016.7重大仪器专项\2016-3-8 重大仪器专项（高性能智能化食品药品无菌检测仪）\2017\SterilityRestful\SterilityRestful\SterilityRestful\bin\System.Web.WebPages.Deployment.xml
+E:\Program\task\2016.7重大仪器专项\2016-3-8 重大仪器专项（高性能智能化食品药品无菌检测仪）\2017\SterilityRestful\SterilityRestful\SterilityRestful\bin\System.Web.WebPages.Razor.xml
+E:\Program\task\2016.7重大仪器专项\2016-3-8 重大仪器专项（高性能智能化食品药品无菌检测仪）\2017\SterilityRestful\SterilityRestful\SterilityRestful\bin\Antlr3.Runtime.pdb
+E:\Program\task\2016.7重大仪器专项\2016-3-8 重大仪器专项（高性能智能化食品药品无菌检测仪）\2017\SterilityRestful\SterilityRestful\SterilityRestful\bin\zh-Hans\System.Net.Http.Formatting.resources.dll
+E:\Program\task\2016.7重大仪器专项\2016-3-8 重大仪器专项（高性能智能化食品药品无菌检测仪）\2017\SterilityRestful\SterilityRestful\SterilityRestful\bin\zh-Hans\System.Web.Helpers.resources.dll
+E:\Program\task\2016.7重大仪器专项\2016-3-8 重大仪器专项（高性能智能化食品药品无菌检测仪）\2017\SterilityRestful\SterilityRestful\SterilityRestful\bin\zh-Hans\System.Web.Http.resources.dll
+E:\Program\task\2016.7重大仪器专项\2016-3-8 重大仪器专项（高性能智能化食品药品无菌检测仪）\2017\SterilityRestful\SterilityRestful\SterilityRestful\bin\zh-Hans\System.Web.Http.WebHost.resources.dll
+E:\Program\task\2016.7重大仪器专项\2016-3-8 重大仪器专项（高性能智能化食品药品无菌检测仪）\2017\SterilityRestful\SterilityRestful\SterilityRestful\bin\zh-Hans\System.Web.Mvc.resources.dll
+E:\Program\task\2016.7重大仪器专项\2016-3-8 重大仪器专项（高性能智能化食品药品无菌检测仪）\2017\SterilityRestful\SterilityRestful\SterilityRestful\bin\zh-Hans\System.Web.Optimization.resources.dll
+E:\Program\task\2016.7重大仪器专项\2016-3-8 重大仪器专项（高性能智能化食品药品无菌检测仪）\2017\SterilityRestful\SterilityRestful\SterilityRestful\bin\zh-Hans\System.Web.Razor.resources.dll
+E:\Program\task\2016.7重大仪器专项\2016-3-8 重大仪器专项（高性能智能化食品药品无菌检测仪）\2017\SterilityRestful\SterilityRestful\SterilityRestful\bin\zh-Hans\System.Web.WebPages.resources.dll
+E:\Program\task\2016.7重大仪器专项\2016-3-8 重大仪器专项（高性能智能化食品药品无菌检测仪）\2017\SterilityRestful\SterilityRestful\SterilityRestful\bin\zh-Hans\System.Web.WebPages.Deployment.resources.dll
+E:\Program\task\2016.7重大仪器专项\2016-3-8 重大仪器专项（高性能智能化食品药品无菌检测仪）\2017\SterilityRestful\SterilityRestful\SterilityRestful\bin\zh-Hans\System.Web.WebPages.Razor.resources.dll
+E:\Program\task\2016.7重大仪器专项\2016-3-8 重大仪器专项（高性能智能化食品药品无菌检测仪）\2017\SterilityRestful\SterilityRestful\SterilityRestful\obj\Debug\SterilityRestful.dll
+E:\Program\task\2016.7重大仪器专项\2016-3-8 重大仪器专项（高性能智能化食品药品无菌检测仪）\2017\SterilityRestful\SterilityRestful\SterilityRestful\obj\Debug\SterilityRestful.pdb
+E:\Program\task\2016.7重大仪器专项\2016-3-8 重大仪器专项（高性能智能化食品药品无菌检测仪）\SterilityRestful\SterilityRestful\SterilityRestful\bin\SterilityRestful.dll.config
+E:\Program\task\2016.7重大仪器专项\2016-3-8 重大仪器专项（高性能智能化食品药品无菌检测仪）\SterilityRestful\SterilityRestful\SterilityRestful\bin\SterilityRestful.dll
+E:\Program\task\2016.7重大仪器专项\2016-3-8 重大仪器专项（高性能智能化食品药品无菌检测仪）\SterilityRestful\SterilityRestful\SterilityRestful\bin\SterilityRestful.pdb
+E:\Program\task\2016.7重大仪器专项\2016-3-8 重大仪器专项（高性能智能化食品药品无菌检测仪）\SterilityRestful\SterilityRestful\SterilityRestful\bin\Antlr3.Runtime.dll
+E:\Program\task\2016.7重大仪器专项\2016-3-8 重大仪器专项（高性能智能化食品药品无菌检测仪）\SterilityRestful\SterilityRestful\SterilityRestful\bin\Microsoft.Web.Infrastructure.dll
+E:\Program\task\2016.7重大仪器专项\2016-3-8 重大仪器专项（高性能智能化食品药品无菌检测仪）\SterilityRestful\SterilityRestful\SterilityRestful\bin\Newtonsoft.Json.dll
+E:\Program\task\2016.7重大仪器专项\2016-3-8 重大仪器专项（高性能智能化食品药品无菌检测仪）\SterilityRestful\SterilityRestful\SterilityRestful\bin\System.Net.Http.Formatting.dll
+E:\Program\task\2016.7重大仪器专项\2016-3-8 重大仪器专项（高性能智能化食品药品无菌检测仪）\SterilityRestful\SterilityRestful\SterilityRestful\bin\System.Web.Cors.dll
+E:\Program\task\2016.7重大仪器专项\2016-3-8 重大仪器专项（高性能智能化食品药品无菌检测仪）\SterilityRestful\SterilityRestful\SterilityRestful\bin\System.Web.Helpers.dll
+E:\Program\task\2016.7重大仪器专项\2016-3-8 重大仪器专项（高性能智能化食品药品无菌检测仪）\SterilityRestful\SterilityRestful\SterilityRestful\bin\System.Web.Http.Cors.dll
+E:\Program\task\2016.7重大仪器专项\2016-3-8 重大仪器专项（高性能智能化食品药品无菌检测仪）\SterilityRestful\SterilityRestful\SterilityRestful\bin\System.Web.Http.dll
+E:\Program\task\2016.7重大仪器专项\2016-3-8 重大仪器专项（高性能智能化食品药品无菌检测仪）\SterilityRestful\SterilityRestful\SterilityRestful\bin\System.Web.Http.WebHost.dll
+E:\Program\task\2016.7重大仪器专项\2016-3-8 重大仪器专项（高性能智能化食品药品无菌检测仪）\SterilityRestful\SterilityRestful\SterilityRestful\bin\System.Web.Mvc.dll
+E:\Program\task\2016.7重大仪器专项\2016-3-8 重大仪器专项（高性能智能化食品药品无菌检测仪）\SterilityRestful\SterilityRestful\SterilityRestful\bin\System.Web.Optimization.dll
+E:\Program\task\2016.7重大仪器专项\2016-3-8 重大仪器专项（高性能智能化食品药品无菌检测仪）\SterilityRestful\SterilityRestful\SterilityRestful\bin\System.Web.Razor.dll
+E:\Program\task\2016.7重大仪器专项\2016-3-8 重大仪器专项（高性能智能化食品药品无菌检测仪）\SterilityRestful\SterilityRestful\SterilityRestful\bin\System.Web.WebPages.Deployment.dll
+E:\Program\task\2016.7重大仪器专项\2016-3-8 重大仪器专项（高性能智能化食品药品无菌检测仪）\SterilityRestful\SterilityRestful\SterilityRestful\bin\System.Web.WebPages.dll
+E:\Program\task\2016.7重大仪器专项\2016-3-8 重大仪器专项（高性能智能化食品药品无菌检测仪）\SterilityRestful\SterilityRestful\SterilityRestful\bin\System.Web.WebPages.Razor.dll
+E:\Program\task\2016.7重大仪器专项\2016-3-8 重大仪器专项（高性能智能化食品药品无菌检测仪）\SterilityRestful\SterilityRestful\SterilityRestful\bin\WebGrease.dll
+E:\Program\task\2016.7重大仪器专项\2016-3-8 重大仪器专项（高性能智能化食品药品无菌检测仪）\SterilityRestful\SterilityRestful\SterilityRestful\bin\System.Web.Http.Cors.xml
+E:\Program\task\2016.7重大仪器专项\2016-3-8 重大仪器专项（高性能智能化食品药品无菌检测仪）\SterilityRestful\SterilityRestful\SterilityRestful\bin\Newtonsoft.Json.xml
+E:\Program\task\2016.7重大仪器专项\2016-3-8 重大仪器专项（高性能智能化食品药品无菌检测仪）\SterilityRestful\SterilityRestful\SterilityRestful\bin\System.Net.Http.Formatting.xml
+E:\Program\task\2016.7重大仪器专项\2016-3-8 重大仪器专项（高性能智能化食品药品无菌检测仪）\SterilityRestful\SterilityRestful\SterilityRestful\bin\System.Web.Helpers.xml
+E:\Program\task\2016.7重大仪器专项\2016-3-8 重大仪器专项（高性能智能化食品药品无菌检测仪）\SterilityRestful\SterilityRestful\SterilityRestful\bin\System.Web.Http.xml
+E:\Program\task\2016.7重大仪器专项\2016-3-8 重大仪器专项（高性能智能化食品药品无菌检测仪）\SterilityRestful\SterilityRestful\SterilityRestful\bin\System.Web.Http.WebHost.xml
+E:\Program\task\2016.7重大仪器专项\2016-3-8 重大仪器专项（高性能智能化食品药品无菌检测仪）\SterilityRestful\SterilityRestful\SterilityRestful\bin\System.Web.Mvc.xml
+E:\Program\task\2016.7重大仪器专项\2016-3-8 重大仪器专项（高性能智能化食品药品无菌检测仪）\SterilityRestful\SterilityRestful\SterilityRestful\bin\System.Web.Optimization.xml
+E:\Program\task\2016.7重大仪器专项\2016-3-8 重大仪器专项（高性能智能化食品药品无菌检测仪）\SterilityRestful\SterilityRestful\SterilityRestful\bin\System.Web.Razor.xml
+E:\Program\task\2016.7重大仪器专项\2016-3-8 重大仪器专项（高性能智能化食品药品无菌检测仪）\SterilityRestful\SterilityRestful\SterilityRestful\bin\System.Web.WebPages.xml
+E:\Program\task\2016.7重大仪器专项\2016-3-8 重大仪器专项（高性能智能化食品药品无菌检测仪）\SterilityRestful\SterilityRestful\SterilityRestful\bin\System.Web.WebPages.Deployment.xml
+E:\Program\task\2016.7重大仪器专项\2016-3-8 重大仪器专项（高性能智能化食品药品无菌检测仪）\SterilityRestful\SterilityRestful\SterilityRestful\bin\System.Web.WebPages.Razor.xml
+E:\Program\task\2016.7重大仪器专项\2016-3-8 重大仪器专项（高性能智能化食品药品无菌检测仪）\SterilityRestful\SterilityRestful\SterilityRestful\bin\Antlr3.Runtime.pdb
+E:\Program\task\2016.7重大仪器专项\2016-3-8 重大仪器专项（高性能智能化食品药品无菌检测仪）\SterilityRestful\SterilityRestful\SterilityRestful\bin\zh-Hans\System.Net.Http.Formatting.resources.dll
+E:\Program\task\2016.7重大仪器专项\2016-3-8 重大仪器专项（高性能智能化食品药品无菌检测仪）\SterilityRestful\SterilityRestful\SterilityRestful\bin\zh-Hans\System.Web.Helpers.resources.dll
+E:\Program\task\2016.7重大仪器专项\2016-3-8 重大仪器专项（高性能智能化食品药品无菌检测仪）\SterilityRestful\SterilityRestful\SterilityRestful\bin\zh-Hans\System.Web.Http.resources.dll
+E:\Program\task\2016.7重大仪器专项\2016-3-8 重大仪器专项（高性能智能化食品药品无菌检测仪）\SterilityRestful\SterilityRestful\SterilityRestful\bin\zh-Hans\System.Web.Http.WebHost.resources.dll
+E:\Program\task\2016.7重大仪器专项\2016-3-8 重大仪器专项（高性能智能化食品药品无菌检测仪）\SterilityRestful\SterilityRestful\SterilityRestful\bin\zh-Hans\System.Web.Mvc.resources.dll
+E:\Program\task\2016.7重大仪器专项\2016-3-8 重大仪器专项（高性能智能化食品药品无菌检测仪）\SterilityRestful\SterilityRestful\SterilityRestful\bin\zh-Hans\System.Web.Optimization.resources.dll
+E:\Program\task\2016.7重大仪器专项\2016-3-8 重大仪器专项（高性能智能化食品药品无菌检测仪）\SterilityRestful\SterilityRestful\SterilityRestful\bin\zh-Hans\System.Web.Razor.resources.dll
+E:\Program\task\2016.7重大仪器专项\2016-3-8 重大仪器专项（高性能智能化食品药品无菌检测仪）\SterilityRestful\SterilityRestful\SterilityRestful\bin\zh-Hans\System.Web.WebPages.resources.dll
+E:\Program\task\2016.7重大仪器专项\2016-3-8 重大仪器专项（高性能智能化食品药品无菌检测仪）\SterilityRestful\SterilityRestful\SterilityRestful\bin\zh-Hans\System.Web.WebPages.Deployment.resources.dll
+E:\Program\task\2016.7重大仪器专项\2016-3-8 重大仪器专项（高性能智能化食品药品无菌检测仪）\SterilityRestful\SterilityRestful\SterilityRestful\bin\zh-Hans\System.Web.WebPages.Razor.resources.dll
+E:\Program\task\2016.7重大仪器专项\2016-3-8 重大仪器专项（高性能智能化食品药品无菌检测仪）\SterilityRestful\SterilityRestful\SterilityRestful\obj\Debug\SterilityRestful.dll
+E:\Program\task\2016.7重大仪器专项\2016-3-8 重大仪器专项（高性能智能化食品药品无菌检测仪）\SterilityRestful\SterilityRestful\SterilityRestful\obj\Debug\SterilityRestful.pdb
+E:\Program\task\2016.7重大仪器专项\2016-3-8 重大仪器专项（高性能智能化食品药品无菌检测仪）\SterilityRestful\SterilityRestful\SterilityRestful\bin\log4net.dll
+E:\Program\task\2016.7重大仪器专项\2016-3-8 重大仪器专项（高性能智能化食品药品无菌检测仪）\SterilityRestful\SterilityRestful\SterilityRestful\bin\log4net.xml
+E:\Program\task\2016.7重大仪器专项\2016-3-8 重大仪器专项（高性能智能化食品药品无菌检测仪）\SterilityRestful\SterilityRestful\SterilityRestful\bin\Microsoft.AspNet.SignalR.Core.dll
+E:\Program\task\2016.7重大仪器专项\2016-3-8 重大仪器专项（高性能智能化食品药品无菌检测仪）\SterilityRestful\SterilityRestful\SterilityRestful\bin\Microsoft.AspNet.SignalR.SystemWeb.dll
+E:\Program\task\2016.7重大仪器专项\2016-3-8 重大仪器专项（高性能智能化食品药品无菌检测仪）\SterilityRestful\SterilityRestful\SterilityRestful\bin\Microsoft.Owin.dll
+E:\Program\task\2016.7重大仪器专项\2016-3-8 重大仪器专项（高性能智能化食品药品无菌检测仪）\SterilityRestful\SterilityRestful\SterilityRestful\bin\Microsoft.Owin.Host.SystemWeb.dll
+E:\Program\task\2016.7重大仪器专项\2016-3-8 重大仪器专项（高性能智能化食品药品无菌检测仪）\SterilityRestful\SterilityRestful\SterilityRestful\bin\Microsoft.Owin.Security.dll
+E:\Program\task\2016.7重大仪器专项\2016-3-8 重大仪器专项（高性能智能化食品药品无菌检测仪）\SterilityRestful\SterilityRestful\SterilityRestful\bin\Owin.dll
+E:\Program\task\2016.7重大仪器专项\2016-3-8 重大仪器专项（高性能智能化食品药品无菌检测仪）\SterilityRestful\SterilityRestful\SterilityRestful\bin\Microsoft.AspNet.SignalR.Core.xml
+E:\Program\task\2016.7重大仪器专项\2016-3-8 重大仪器专项（高性能智能化食品药品无菌检测仪）\SterilityRestful\SterilityRestful\SterilityRestful\bin\Microsoft.AspNet.SignalR.SystemWeb.xml
+E:\Program\task\2016.7重大仪器专项\2016-3-8 重大仪器专项（高性能智能化食品药品无菌检测仪）\SterilityRestful\SterilityRestful\SterilityRestful\bin\Microsoft.Owin.xml
+E:\Program\task\2016.7重大仪器专项\2016-3-8 重大仪器专项（高性能智能化食品药品无菌检测仪）\SterilityRestful\SterilityRestful\SterilityRestful\bin\Microsoft.Owin.Host.SystemWeb.xml
+E:\Program\task\2016.7重大仪器专项\2016-3-8 重大仪器专项（高性能智能化食品药品无菌检测仪）\SterilityRestful\SterilityRestful\SterilityRestful\bin\Microsoft.Owin.Security.xml
+E:\Program\task\2016.7重大仪器专项\2016-3-8 重大仪器专项（高性能智能化食品药品无菌检测仪）\SterilityRestful\SterilityRestful\SterilityRestful\bin\Microsoft.Owin.Cors.dll
+E:\Program\task\2016.7重大仪器专项\2016-3-8 重大仪器专项（高性能智能化食品药品无菌检测仪）\SterilityRestful\SterilityRestful\SterilityRestful\bin\Microsoft.Owin.Cors.xml
+E:\Program\task\2016.7重大仪器专项\2016-3-8 重大仪器专项（高性能智能化食品药品无菌检测仪）\SterilityRestful\SterilityRestful\SterilityRestful\obj\Debug\SterilityRestful.csprojResolveAssemblyReference.cache
+C:\Users\bme319\Documents\GitHub\SterilityRestful\SterilityRestful\SterilityRestful\bin\SterilityRestful.dll.config
+C:\Users\bme319\Documents\GitHub\SterilityRestful\SterilityRestful\SterilityRestful\bin\SterilityRestful.dll
+C:\Users\bme319\Documents\GitHub\SterilityRestful\SterilityRestful\SterilityRestful\bin\SterilityRestful.pdb
+C:\Users\bme319\Documents\GitHub\SterilityRestful\SterilityRestful\SterilityRestful\bin\Antlr3.Runtime.dll
+C:\Users\bme319\Documents\GitHub\SterilityRestful\SterilityRestful\SterilityRestful\bin\log4net.dll
+C:\Users\bme319\Documents\GitHub\SterilityRestful\SterilityRestful\SterilityRestful\bin\Microsoft.AspNet.SignalR.Core.dll
+C:\Users\bme319\Documents\GitHub\SterilityRestful\SterilityRestful\SterilityRestful\bin\Microsoft.AspNet.SignalR.SystemWeb.dll
+C:\Users\bme319\Documents\GitHub\SterilityRestful\SterilityRestful\SterilityRestful\bin\Microsoft.Owin.Cors.dll
+C:\Users\bme319\Documents\GitHub\SterilityRestful\SterilityRestful\SterilityRestful\bin\Microsoft.Owin.dll
+C:\Users\bme319\Documents\GitHub\SterilityRestful\SterilityRestful\SterilityRestful\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\bme319\Documents\GitHub\SterilityRestful\SterilityRestful\SterilityRestful\bin\Microsoft.Owin.Security.dll
+C:\Users\bme319\Documents\GitHub\SterilityRestful\SterilityRestful\SterilityRestful\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\bme319\Documents\GitHub\SterilityRestful\SterilityRestful\SterilityRestful\bin\Newtonsoft.Json.dll
+C:\Users\bme319\Documents\GitHub\SterilityRestful\SterilityRestful\SterilityRestful\bin\Owin.dll
+C:\Users\bme319\Documents\GitHub\SterilityRestful\SterilityRestful\SterilityRestful\bin\System.Net.Http.Formatting.dll
+C:\Users\bme319\Documents\GitHub\SterilityRestful\SterilityRestful\SterilityRestful\bin\System.Web.Cors.dll
+C:\Users\bme319\Documents\GitHub\SterilityRestful\SterilityRestful\SterilityRestful\bin\System.Web.Helpers.dll
+C:\Users\bme319\Documents\GitHub\SterilityRestful\SterilityRestful\SterilityRestful\bin\System.Web.Http.Cors.dll
+C:\Users\bme319\Documents\GitHub\SterilityRestful\SterilityRestful\SterilityRestful\bin\System.Web.Http.dll
+C:\Users\bme319\Documents\GitHub\SterilityRestful\SterilityRestful\SterilityRestful\bin\System.Web.Http.WebHost.dll
+C:\Users\bme319\Documents\GitHub\SterilityRestful\SterilityRestful\SterilityRestful\bin\System.Web.Mvc.dll
+C:\Users\bme319\Documents\GitHub\SterilityRestful\SterilityRestful\SterilityRestful\bin\System.Web.Optimization.dll
+C:\Users\bme319\Documents\GitHub\SterilityRestful\SterilityRestful\SterilityRestful\bin\System.Web.Razor.dll
+C:\Users\bme319\Documents\GitHub\SterilityRestful\SterilityRestful\SterilityRestful\bin\System.Web.WebPages.Deployment.dll
+C:\Users\bme319\Documents\GitHub\SterilityRestful\SterilityRestful\SterilityRestful\bin\System.Web.WebPages.dll
+C:\Users\bme319\Documents\GitHub\SterilityRestful\SterilityRestful\SterilityRestful\bin\System.Web.WebPages.Razor.dll
+C:\Users\bme319\Documents\GitHub\SterilityRestful\SterilityRestful\SterilityRestful\bin\WebGrease.dll
+C:\Users\bme319\Documents\GitHub\SterilityRestful\SterilityRestful\SterilityRestful\bin\log4net.xml
+C:\Users\bme319\Documents\GitHub\SterilityRestful\SterilityRestful\SterilityRestful\bin\Microsoft.AspNet.SignalR.Core.xml
+C:\Users\bme319\Documents\GitHub\SterilityRestful\SterilityRestful\SterilityRestful\bin\Microsoft.AspNet.SignalR.SystemWeb.xml
+C:\Users\bme319\Documents\GitHub\SterilityRestful\SterilityRestful\SterilityRestful\bin\Microsoft.Owin.xml
+C:\Users\bme319\Documents\GitHub\SterilityRestful\SterilityRestful\SterilityRestful\bin\Microsoft.Owin.Cors.xml
+C:\Users\bme319\Documents\GitHub\SterilityRestful\SterilityRestful\SterilityRestful\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\bme319\Documents\GitHub\SterilityRestful\SterilityRestful\SterilityRestful\bin\Microsoft.Owin.Security.xml
+C:\Users\bme319\Documents\GitHub\SterilityRestful\SterilityRestful\SterilityRestful\bin\Newtonsoft.Json.xml
+C:\Users\bme319\Documents\GitHub\SterilityRestful\SterilityRestful\SterilityRestful\bin\System.Web.Http.Cors.xml
+C:\Users\bme319\Documents\GitHub\SterilityRestful\SterilityRestful\SterilityRestful\bin\System.Net.Http.Formatting.xml
+C:\Users\bme319\Documents\GitHub\SterilityRestful\SterilityRestful\SterilityRestful\bin\System.Web.Helpers.xml
+C:\Users\bme319\Documents\GitHub\SterilityRestful\SterilityRestful\SterilityRestful\bin\System.Web.Http.xml
+C:\Users\bme319\Documents\GitHub\SterilityRestful\SterilityRestful\SterilityRestful\bin\System.Web.Http.WebHost.xml
+C:\Users\bme319\Documents\GitHub\SterilityRestful\SterilityRestful\SterilityRestful\bin\System.Web.Mvc.xml
+C:\Users\bme319\Documents\GitHub\SterilityRestful\SterilityRestful\SterilityRestful\bin\System.Web.Optimization.xml
+C:\Users\bme319\Documents\GitHub\SterilityRestful\SterilityRestful\SterilityRestful\bin\System.Web.Razor.xml
+C:\Users\bme319\Documents\GitHub\SterilityRestful\SterilityRestful\SterilityRestful\bin\System.Web.WebPages.xml
+C:\Users\bme319\Documents\GitHub\SterilityRestful\SterilityRestful\SterilityRestful\bin\System.Web.WebPages.Deployment.xml
+C:\Users\bme319\Documents\GitHub\SterilityRestful\SterilityRestful\SterilityRestful\bin\System.Web.WebPages.Razor.xml
+C:\Users\bme319\Documents\GitHub\SterilityRestful\SterilityRestful\SterilityRestful\bin\Antlr3.Runtime.pdb
+C:\Users\bme319\Documents\GitHub\SterilityRestful\SterilityRestful\SterilityRestful\bin\zh-Hans\System.Net.Http.Formatting.resources.dll
+C:\Users\bme319\Documents\GitHub\SterilityRestful\SterilityRestful\SterilityRestful\bin\zh-Hans\System.Web.Helpers.resources.dll
+C:\Users\bme319\Documents\GitHub\SterilityRestful\SterilityRestful\SterilityRestful\bin\zh-Hans\System.Web.Http.resources.dll
+C:\Users\bme319\Documents\GitHub\SterilityRestful\SterilityRestful\SterilityRestful\bin\zh-Hans\System.Web.Http.WebHost.resources.dll
+C:\Users\bme319\Documents\GitHub\SterilityRestful\SterilityRestful\SterilityRestful\bin\zh-Hans\System.Web.Mvc.resources.dll
+C:\Users\bme319\Documents\GitHub\SterilityRestful\SterilityRestful\SterilityRestful\bin\zh-Hans\System.Web.Optimization.resources.dll
+C:\Users\bme319\Documents\GitHub\SterilityRestful\SterilityRestful\SterilityRestful\bin\zh-Hans\System.Web.Razor.resources.dll
+C:\Users\bme319\Documents\GitHub\SterilityRestful\SterilityRestful\SterilityRestful\bin\zh-Hans\System.Web.WebPages.resources.dll
+C:\Users\bme319\Documents\GitHub\SterilityRestful\SterilityRestful\SterilityRestful\bin\zh-Hans\System.Web.WebPages.Deployment.resources.dll
+C:\Users\bme319\Documents\GitHub\SterilityRestful\SterilityRestful\SterilityRestful\bin\zh-Hans\System.Web.WebPages.Razor.resources.dll
+C:\Users\bme319\Documents\GitHub\SterilityRestful\SterilityRestful\SterilityRestful\obj\Debug\SterilityRestful.csprojResolveAssemblyReference.cache
+C:\Users\bme319\Documents\GitHub\SterilityRestful\SterilityRestful\SterilityRestful\obj\Debug\SterilityRestful.dll
+C:\Users\bme319\Documents\GitHub\SterilityRestful\SterilityRestful\SterilityRestful\obj\Debug\SterilityRestful.pdb
+E:\Program\task\2016.7重大仪器专项\2016-3-8重大仪器专项（高性能智能化食品药品无菌检测仪）\SterilityRestful\SterilityRestful\SterilityRestful\bin\SterilityRestful.dll.config
+E:\Program\task\2016.7重大仪器专项\2016-3-8重大仪器专项（高性能智能化食品药品无菌检测仪）\SterilityRestful\SterilityRestful\SterilityRestful\bin\SterilityRestful.dll
+E:\Program\task\2016.7重大仪器专项\2016-3-8重大仪器专项（高性能智能化食品药品无菌检测仪）\SterilityRestful\SterilityRestful\SterilityRestful\bin\SterilityRestful.pdb
+E:\Program\task\2016.7重大仪器专项\2016-3-8重大仪器专项（高性能智能化食品药品无菌检测仪）\SterilityRestful\SterilityRestful\SterilityRestful\bin\Antlr3.Runtime.dll
+E:\Program\task\2016.7重大仪器专项\2016-3-8重大仪器专项（高性能智能化食品药品无菌检测仪）\SterilityRestful\SterilityRestful\SterilityRestful\bin\log4net.dll
+E:\Program\task\2016.7重大仪器专项\2016-3-8重大仪器专项（高性能智能化食品药品无菌检测仪）\SterilityRestful\SterilityRestful\SterilityRestful\bin\Microsoft.AspNet.SignalR.Core.dll
+E:\Program\task\2016.7重大仪器专项\2016-3-8重大仪器专项（高性能智能化食品药品无菌检测仪）\SterilityRestful\SterilityRestful\SterilityRestful\bin\Microsoft.AspNet.SignalR.SystemWeb.dll
+E:\Program\task\2016.7重大仪器专项\2016-3-8重大仪器专项（高性能智能化食品药品无菌检测仪）\SterilityRestful\SterilityRestful\SterilityRestful\bin\Microsoft.Owin.Cors.dll
+E:\Program\task\2016.7重大仪器专项\2016-3-8重大仪器专项（高性能智能化食品药品无菌检测仪）\SterilityRestful\SterilityRestful\SterilityRestful\bin\Microsoft.Owin.dll
+E:\Program\task\2016.7重大仪器专项\2016-3-8重大仪器专项（高性能智能化食品药品无菌检测仪）\SterilityRestful\SterilityRestful\SterilityRestful\bin\Microsoft.Owin.Host.SystemWeb.dll
+E:\Program\task\2016.7重大仪器专项\2016-3-8重大仪器专项（高性能智能化食品药品无菌检测仪）\SterilityRestful\SterilityRestful\SterilityRestful\bin\Microsoft.Owin.Security.dll
+E:\Program\task\2016.7重大仪器专项\2016-3-8重大仪器专项（高性能智能化食品药品无菌检测仪）\SterilityRestful\SterilityRestful\SterilityRestful\bin\Microsoft.Web.Infrastructure.dll
+E:\Program\task\2016.7重大仪器专项\2016-3-8重大仪器专项（高性能智能化食品药品无菌检测仪）\SterilityRestful\SterilityRestful\SterilityRestful\bin\Newtonsoft.Json.dll
+E:\Program\task\2016.7重大仪器专项\2016-3-8重大仪器专项（高性能智能化食品药品无菌检测仪）\SterilityRestful\SterilityRestful\SterilityRestful\bin\Owin.dll
+E:\Program\task\2016.7重大仪器专项\2016-3-8重大仪器专项（高性能智能化食品药品无菌检测仪）\SterilityRestful\SterilityRestful\SterilityRestful\bin\System.Net.Http.Formatting.dll
+E:\Program\task\2016.7重大仪器专项\2016-3-8重大仪器专项（高性能智能化食品药品无菌检测仪）\SterilityRestful\SterilityRestful\SterilityRestful\bin\System.Web.Cors.dll
+E:\Program\task\2016.7重大仪器专项\2016-3-8重大仪器专项（高性能智能化食品药品无菌检测仪）\SterilityRestful\SterilityRestful\SterilityRestful\bin\System.Web.Helpers.dll
+E:\Program\task\2016.7重大仪器专项\2016-3-8重大仪器专项（高性能智能化食品药品无菌检测仪）\SterilityRestful\SterilityRestful\SterilityRestful\bin\System.Web.Http.Cors.dll
+E:\Program\task\2016.7重大仪器专项\2016-3-8重大仪器专项（高性能智能化食品药品无菌检测仪）\SterilityRestful\SterilityRestful\SterilityRestful\bin\System.Web.Http.dll
+E:\Program\task\2016.7重大仪器专项\2016-3-8重大仪器专项（高性能智能化食品药品无菌检测仪）\SterilityRestful\SterilityRestful\SterilityRestful\bin\System.Web.Http.WebHost.dll
+E:\Program\task\2016.7重大仪器专项\2016-3-8重大仪器专项（高性能智能化食品药品无菌检测仪）\SterilityRestful\SterilityRestful\SterilityRestful\bin\System.Web.Mvc.dll
+E:\Program\task\2016.7重大仪器专项\2016-3-8重大仪器专项（高性能智能化食品药品无菌检测仪）\SterilityRestful\SterilityRestful\SterilityRestful\bin\System.Web.Optimization.dll
+E:\Program\task\2016.7重大仪器专项\2016-3-8重大仪器专项（高性能智能化食品药品无菌检测仪）\SterilityRestful\SterilityRestful\SterilityRestful\bin\System.Web.Razor.dll
+E:\Program\task\2016.7重大仪器专项\2016-3-8重大仪器专项（高性能智能化食品药品无菌检测仪）\SterilityRestful\SterilityRestful\SterilityRestful\bin\System.Web.WebPages.Deployment.dll
+E:\Program\task\2016.7重大仪器专项\2016-3-8重大仪器专项（高性能智能化食品药品无菌检测仪）\SterilityRestful\SterilityRestful\SterilityRestful\bin\System.Web.WebPages.dll
+E:\Program\task\2016.7重大仪器专项\2016-3-8重大仪器专项（高性能智能化食品药品无菌检测仪）\SterilityRestful\SterilityRestful\SterilityRestful\bin\System.Web.WebPages.Razor.dll
+E:\Program\task\2016.7重大仪器专项\2016-3-8重大仪器专项（高性能智能化食品药品无菌检测仪）\SterilityRestful\SterilityRestful\SterilityRestful\bin\WebGrease.dll
+E:\Program\task\2016.7重大仪器专项\2016-3-8重大仪器专项（高性能智能化食品药品无菌检测仪）\SterilityRestful\SterilityRestful\SterilityRestful\bin\log4net.xml
+E:\Program\task\2016.7重大仪器专项\2016-3-8重大仪器专项（高性能智能化食品药品无菌检测仪）\SterilityRestful\SterilityRestful\SterilityRestful\bin\Microsoft.AspNet.SignalR.Core.xml
+E:\Program\task\2016.7重大仪器专项\2016-3-8重大仪器专项（高性能智能化食品药品无菌检测仪）\SterilityRestful\SterilityRestful\SterilityRestful\bin\Microsoft.AspNet.SignalR.SystemWeb.xml
+E:\Program\task\2016.7重大仪器专项\2016-3-8重大仪器专项（高性能智能化食品药品无菌检测仪）\SterilityRestful\SterilityRestful\SterilityRestful\bin\Microsoft.Owin.xml
+E:\Program\task\2016.7重大仪器专项\2016-3-8重大仪器专项（高性能智能化食品药品无菌检测仪）\SterilityRestful\SterilityRestful\SterilityRestful\bin\Microsoft.Owin.Cors.xml
+E:\Program\task\2016.7重大仪器专项\2016-3-8重大仪器专项（高性能智能化食品药品无菌检测仪）\SterilityRestful\SterilityRestful\SterilityRestful\bin\Microsoft.Owin.Host.SystemWeb.xml
+E:\Program\task\2016.7重大仪器专项\2016-3-8重大仪器专项（高性能智能化食品药品无菌检测仪）\SterilityRestful\SterilityRestful\SterilityRestful\bin\Microsoft.Owin.Security.xml
+E:\Program\task\2016.7重大仪器专项\2016-3-8重大仪器专项（高性能智能化食品药品无菌检测仪）\SterilityRestful\SterilityRestful\SterilityRestful\bin\Newtonsoft.Json.xml
+E:\Program\task\2016.7重大仪器专项\2016-3-8重大仪器专项（高性能智能化食品药品无菌检测仪）\SterilityRestful\SterilityRestful\SterilityRestful\bin\System.Web.Http.Cors.xml
+E:\Program\task\2016.7重大仪器专项\2016-3-8重大仪器专项（高性能智能化食品药品无菌检测仪）\SterilityRestful\SterilityRestful\SterilityRestful\bin\System.Net.Http.Formatting.xml
+E:\Program\task\2016.7重大仪器专项\2016-3-8重大仪器专项（高性能智能化食品药品无菌检测仪）\SterilityRestful\SterilityRestful\SterilityRestful\bin\System.Web.Helpers.xml
+E:\Program\task\2016.7重大仪器专项\2016-3-8重大仪器专项（高性能智能化食品药品无菌检测仪）\SterilityRestful\SterilityRestful\SterilityRestful\bin\System.Web.Http.xml
+E:\Program\task\2016.7重大仪器专项\2016-3-8重大仪器专项（高性能智能化食品药品无菌检测仪）\SterilityRestful\SterilityRestful\SterilityRestful\bin\System.Web.Http.WebHost.xml
+E:\Program\task\2016.7重大仪器专项\2016-3-8重大仪器专项（高性能智能化食品药品无菌检测仪）\SterilityRestful\SterilityRestful\SterilityRestful\bin\System.Web.Mvc.xml
+E:\Program\task\2016.7重大仪器专项\2016-3-8重大仪器专项（高性能智能化食品药品无菌检测仪）\SterilityRestful\SterilityRestful\SterilityRestful\bin\System.Web.Optimization.xml
+E:\Program\task\2016.7重大仪器专项\2016-3-8重大仪器专项（高性能智能化食品药品无菌检测仪）\SterilityRestful\SterilityRestful\SterilityRestful\bin\System.Web.Razor.xml
+E:\Program\task\2016.7重大仪器专项\2016-3-8重大仪器专项（高性能智能化食品药品无菌检测仪）\SterilityRestful\SterilityRestful\SterilityRestful\bin\System.Web.WebPages.xml
+E:\Program\task\2016.7重大仪器专项\2016-3-8重大仪器专项（高性能智能化食品药品无菌检测仪）\SterilityRestful\SterilityRestful\SterilityRestful\bin\System.Web.WebPages.Deployment.xml
+E:\Program\task\2016.7重大仪器专项\2016-3-8重大仪器专项（高性能智能化食品药品无菌检测仪）\SterilityRestful\SterilityRestful\SterilityRestful\bin\System.Web.WebPages.Razor.xml
+E:\Program\task\2016.7重大仪器专项\2016-3-8重大仪器专项（高性能智能化食品药品无菌检测仪）\SterilityRestful\SterilityRestful\SterilityRestful\bin\Antlr3.Runtime.pdb
+E:\Program\task\2016.7重大仪器专项\2016-3-8重大仪器专项（高性能智能化食品药品无菌检测仪）\SterilityRestful\SterilityRestful\SterilityRestful\bin\zh-Hans\System.Net.Http.Formatting.resources.dll
+E:\Program\task\2016.7重大仪器专项\2016-3-8重大仪器专项（高性能智能化食品药品无菌检测仪）\SterilityRestful\SterilityRestful\SterilityRestful\bin\zh-Hans\System.Web.Helpers.resources.dll
+E:\Program\task\2016.7重大仪器专项\2016-3-8重大仪器专项（高性能智能化食品药品无菌检测仪）\SterilityRestful\SterilityRestful\SterilityRestful\bin\zh-Hans\System.Web.Http.resources.dll
+E:\Program\task\2016.7重大仪器专项\2016-3-8重大仪器专项（高性能智能化食品药品无菌检测仪）\SterilityRestful\SterilityRestful\SterilityRestful\bin\zh-Hans\System.Web.Http.WebHost.resources.dll
+E:\Program\task\2016.7重大仪器专项\2016-3-8重大仪器专项（高性能智能化食品药品无菌检测仪）\SterilityRestful\SterilityRestful\SterilityRestful\bin\zh-Hans\System.Web.Mvc.resources.dll
+E:\Program\task\2016.7重大仪器专项\2016-3-8重大仪器专项（高性能智能化食品药品无菌检测仪）\SterilityRestful\SterilityRestful\SterilityRestful\bin\zh-Hans\System.Web.Optimization.resources.dll
+E:\Program\task\2016.7重大仪器专项\2016-3-8重大仪器专项（高性能智能化食品药品无菌检测仪）\SterilityRestful\SterilityRestful\SterilityRestful\bin\zh-Hans\System.Web.Razor.resources.dll
+E:\Program\task\2016.7重大仪器专项\2016-3-8重大仪器专项（高性能智能化食品药品无菌检测仪）\SterilityRestful\SterilityRestful\SterilityRestful\bin\zh-Hans\System.Web.WebPages.resources.dll
+E:\Program\task\2016.7重大仪器专项\2016-3-8重大仪器专项（高性能智能化食品药品无菌检测仪）\SterilityRestful\SterilityRestful\SterilityRestful\bin\zh-Hans\System.Web.WebPages.Deployment.resources.dll
+E:\Program\task\2016.7重大仪器专项\2016-3-8重大仪器专项（高性能智能化食品药品无菌检测仪）\SterilityRestful\SterilityRestful\SterilityRestful\bin\zh-Hans\System.Web.WebPages.Razor.resources.dll
+E:\Program\task\2016.7重大仪器专项\2016-3-8重大仪器专项（高性能智能化食品药品无菌检测仪）\SterilityRestful\SterilityRestful\SterilityRestful\obj\Debug\SterilityRestful.dll
+E:\Program\task\2016.7重大仪器专项\2016-3-8重大仪器专项（高性能智能化食品药品无菌检测仪）\SterilityRestful\SterilityRestful\SterilityRestful\obj\Debug\SterilityRestful.pdb
+E:\Program\task\2016.7重大仪器专项\2016-3-8重大仪器专项（高性能智能化食品药品无菌检测仪）\SterilityRestful\SterilityRestful\SterilityRestful\bin\JWT.dll
+C:\Users\Administrator\Desktop\SterilityRestful\SterilityRestful\SterilityRestful\obj\Debug\SterilityRestful.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\SterilityRestful\SterilityRestful\SterilityRestful\obj\Debug\SterilityRestful.dll
+C:\Users\Administrator\Desktop\SterilityRestful\SterilityRestful\SterilityRestful\bin\SterilityRestful.dll.config
+C:\Users\Administrator\Desktop\SterilityRestful\SterilityRestful\SterilityRestful\bin\SterilityRestful.dll
+C:\Users\Administrator\Desktop\SterilityRestful\SterilityRestful\SterilityRestful\bin\SterilityRestful.pdb
+C:\Users\Administrator\Desktop\SterilityRestful\SterilityRestful\SterilityRestful\bin\Antlr3.Runtime.dll
+C:\Users\Administrator\Desktop\SterilityRestful\SterilityRestful\SterilityRestful\bin\JWT.dll
+C:\Users\Administrator\Desktop\SterilityRestful\SterilityRestful\SterilityRestful\bin\log4net.dll
+C:\Users\Administrator\Desktop\SterilityRestful\SterilityRestful\SterilityRestful\bin\Microsoft.AspNet.SignalR.Core.dll
+C:\Users\Administrator\Desktop\SterilityRestful\SterilityRestful\SterilityRestful\bin\Microsoft.AspNet.SignalR.SystemWeb.dll
+C:\Users\Administrator\Desktop\SterilityRestful\SterilityRestful\SterilityRestful\bin\Microsoft.Owin.Cors.dll
+C:\Users\Administrator\Desktop\SterilityRestful\SterilityRestful\SterilityRestful\bin\Microsoft.Owin.dll
+C:\Users\Administrator\Desktop\SterilityRestful\SterilityRestful\SterilityRestful\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Administrator\Desktop\SterilityRestful\SterilityRestful\SterilityRestful\bin\Microsoft.Owin.Security.dll
+C:\Users\Administrator\Desktop\SterilityRestful\SterilityRestful\SterilityRestful\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Administrator\Desktop\SterilityRestful\SterilityRestful\SterilityRestful\bin\Newtonsoft.Json.dll
+C:\Users\Administrator\Desktop\SterilityRestful\SterilityRestful\SterilityRestful\bin\Owin.dll
+C:\Users\Administrator\Desktop\SterilityRestful\SterilityRestful\SterilityRestful\bin\System.Net.Http.Formatting.dll
+C:\Users\Administrator\Desktop\SterilityRestful\SterilityRestful\SterilityRestful\bin\System.Web.Cors.dll
+C:\Users\Administrator\Desktop\SterilityRestful\SterilityRestful\SterilityRestful\bin\System.Web.Helpers.dll
+C:\Users\Administrator\Desktop\SterilityRestful\SterilityRestful\SterilityRestful\bin\System.Web.Http.Cors.dll
+C:\Users\Administrator\Desktop\SterilityRestful\SterilityRestful\SterilityRestful\bin\System.Web.Http.dll
+C:\Users\Administrator\Desktop\SterilityRestful\SterilityRestful\SterilityRestful\bin\System.Web.Http.WebHost.dll
+C:\Users\Administrator\Desktop\SterilityRestful\SterilityRestful\SterilityRestful\bin\System.Web.Mvc.dll
+C:\Users\Administrator\Desktop\SterilityRestful\SterilityRestful\SterilityRestful\bin\System.Web.Optimization.dll
+C:\Users\Administrator\Desktop\SterilityRestful\SterilityRestful\SterilityRestful\bin\System.Web.Razor.dll
+C:\Users\Administrator\Desktop\SterilityRestful\SterilityRestful\SterilityRestful\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Administrator\Desktop\SterilityRestful\SterilityRestful\SterilityRestful\bin\System.Web.WebPages.dll
+C:\Users\Administrator\Desktop\SterilityRestful\SterilityRestful\SterilityRestful\bin\System.Web.WebPages.Razor.dll
+C:\Users\Administrator\Desktop\SterilityRestful\SterilityRestful\SterilityRestful\bin\WebGrease.dll
+C:\Users\Administrator\Desktop\SterilityRestful\SterilityRestful\SterilityRestful\bin\log4net.xml
+C:\Users\Administrator\Desktop\SterilityRestful\SterilityRestful\SterilityRestful\bin\Microsoft.AspNet.SignalR.Core.xml
+C:\Users\Administrator\Desktop\SterilityRestful\SterilityRestful\SterilityRestful\bin\Microsoft.AspNet.SignalR.SystemWeb.xml
+C:\Users\Administrator\Desktop\SterilityRestful\SterilityRestful\SterilityRestful\bin\Microsoft.Owin.xml
+C:\Users\Administrator\Desktop\SterilityRestful\SterilityRestful\SterilityRestful\bin\Microsoft.Owin.Cors.xml
+C:\Users\Administrator\Desktop\SterilityRestful\SterilityRestful\SterilityRestful\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Administrator\Desktop\SterilityRestful\SterilityRestful\SterilityRestful\bin\Microsoft.Owin.Security.xml
+C:\Users\Administrator\Desktop\SterilityRestful\SterilityRestful\SterilityRestful\bin\Newtonsoft.Json.xml
+C:\Users\Administrator\Desktop\SterilityRestful\SterilityRestful\SterilityRestful\bin\System.Web.Http.Cors.xml
+C:\Users\Administrator\Desktop\SterilityRestful\SterilityRestful\SterilityRestful\bin\System.Net.Http.Formatting.xml
+C:\Users\Administrator\Desktop\SterilityRestful\SterilityRestful\SterilityRestful\bin\System.Web.Helpers.xml
+C:\Users\Administrator\Desktop\SterilityRestful\SterilityRestful\SterilityRestful\bin\System.Web.Http.xml
+C:\Users\Administrator\Desktop\SterilityRestful\SterilityRestful\SterilityRestful\bin\System.Web.Http.WebHost.xml
+C:\Users\Administrator\Desktop\SterilityRestful\SterilityRestful\SterilityRestful\bin\System.Web.Mvc.xml
+C:\Users\Administrator\Desktop\SterilityRestful\SterilityRestful\SterilityRestful\bin\System.Web.Optimization.xml
+C:\Users\Administrator\Desktop\SterilityRestful\SterilityRestful\SterilityRestful\bin\System.Web.Razor.xml
+C:\Users\Administrator\Desktop\SterilityRestful\SterilityRestful\SterilityRestful\bin\System.Web.WebPages.xml
+C:\Users\Administrator\Desktop\SterilityRestful\SterilityRestful\SterilityRestful\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Administrator\Desktop\SterilityRestful\SterilityRestful\SterilityRestful\bin\System.Web.WebPages.Razor.xml
+C:\Users\Administrator\Desktop\SterilityRestful\SterilityRestful\SterilityRestful\bin\Antlr3.Runtime.pdb
+C:\Users\Administrator\Desktop\SterilityRestful\SterilityRestful\SterilityRestful\bin\zh-Hans\System.Net.Http.Formatting.resources.dll
+C:\Users\Administrator\Desktop\SterilityRestful\SterilityRestful\SterilityRestful\bin\zh-Hans\System.Web.Helpers.resources.dll
+C:\Users\Administrator\Desktop\SterilityRestful\SterilityRestful\SterilityRestful\bin\zh-Hans\System.Web.Http.resources.dll
+C:\Users\Administrator\Desktop\SterilityRestful\SterilityRestful\SterilityRestful\bin\zh-Hans\System.Web.Http.WebHost.resources.dll
+C:\Users\Administrator\Desktop\SterilityRestful\SterilityRestful\SterilityRestful\bin\zh-Hans\System.Web.Mvc.resources.dll
+C:\Users\Administrator\Desktop\SterilityRestful\SterilityRestful\SterilityRestful\bin\zh-Hans\System.Web.Optimization.resources.dll
+C:\Users\Administrator\Desktop\SterilityRestful\SterilityRestful\SterilityRestful\bin\zh-Hans\System.Web.Razor.resources.dll
+C:\Users\Administrator\Desktop\SterilityRestful\SterilityRestful\SterilityRestful\bin\zh-Hans\System.Web.WebPages.resources.dll
+C:\Users\Administrator\Desktop\SterilityRestful\SterilityRestful\SterilityRestful\bin\zh-Hans\System.Web.WebPages.Deployment.resources.dll
+C:\Users\Administrator\Desktop\SterilityRestful\SterilityRestful\SterilityRestful\bin\zh-Hans\System.Web.WebPages.Razor.resources.dll
+C:\Users\Administrator\Desktop\SterilityRestful\SterilityRestful\SterilityRestful\obj\Debug\SterilityRestful.pdb

@@ -1,0 +1,8 @@
+2017/09/06 14:39:55	::1             	ERR	                                                            	数据库连接失败！ error information : [CacheProvider] Communication link failure: System.Net.Sockets.SocketException; 由于目标计算机积极拒绝，无法连接。 10.12.43.34:1972
+   在 InterSystems.Data.CacheClient.CacheADOConnection.Open()
+   在 InterSystems.Data.CacheClient.CacheConnection.Open(Boolean useCache)
+   在 InterSystems.Data.CacheClient.CacheConnection.Open()
+   在 SterilityRestful.CommonLibrary.DataConnection.Connect() 位置 e:\Program\task\2016.7重大仪器专项\2016-3-8 重大仪器专项（高性能智能化食品药品无菌检测仪）\SterilityRestful\SterilityRestful\SterilityRestful\CommonLibrary\DataConnection.cs:行号 44
+2017/09/06 14:57:31	::1             	ERR	UserInfoMethod.MstUserLogin                                 	数据库操作异常！ error information : [CacheProvider] Communication link failure: System.Net.Sockets.SocketException; 由于目标计算机积极拒绝，无法连接。 10.12.43.34:1972
+   在 SterilityRestful.CommonLibrary.DataConnection.Connect() 位置 e:\Program\task\2016.7重大仪器专项\2016-3-8 重大仪器专项（高性能智能化食品药品无菌检测仪）\SterilityRestful\SterilityRestful\SterilityRestful\CommonLibrary\DataConnection.cs:行号 50
+   在 SterilityRestful.DataMethod.UserInfoMethod.MstUserLogin(DataConnection pclsCache, String UserId, String InPassword, String TerminalIP, String TerminalName, String revUserId) 位置 e:\Program\task\2016.7重大仪器专项\2016-3-8 重大仪器专项（高性能智能化食品药品无菌检测仪）\SterilityRestful\SterilityRestful\SterilityRestful\DataMethod\UserInfoMethod.cs:行号 62

@@ -1,0 +1,289 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--
+您 Web 项目的发布/打包进程将使用此文件。您可以通过编辑此 MSBuild 文件
+来自定义该进程的行为。若要了解与此相关的详细信息，请访问 http://go.microsoft.com/fwlink/?LinkID=208121。
+-->
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <TimeStampOfAssociatedLegacyPublishXmlFile />
+    <_PublishTargetUrl>E:\Program\task\2016.7重大仪器专项\2016-3-8重大仪器专项（高性能智能化食品药品无菌检测仪）\SterilityWebAPI</_PublishTargetUrl>
+  </PropertyGroup>
+  <ItemGroup>
+    <File Include="Areas/HelpPage/HelpPage.css">
+      <publishTime>06/20/2018 11:00:25</publishTime>
+    </File>
+    <File Include="Areas/HelpPage/Views/Help/Api.cshtml">
+      <publishTime>06/20/2018 11:00:26</publishTime>
+    </File>
+    <File Include="Areas/HelpPage/Views/Help/DisplayTemplates/ApiGroup.cshtml">
+      <publishTime>06/20/2018 11:00:26</publishTime>
+    </File>
+    <File Include="Areas/HelpPage/Views/Help/DisplayTemplates/HelpPageApiModel.cshtml">
+      <publishTime>06/20/2018 11:00:26</publishTime>
+    </File>
+    <File Include="Areas/HelpPage/Views/Help/DisplayTemplates/ImageSample.cshtml">
+      <publishTime>06/20/2018 11:00:26</publishTime>
+    </File>
+    <File Include="Areas/HelpPage/Views/Help/DisplayTemplates/InvalidSample.cshtml">
+      <publishTime>06/20/2018 11:00:26</publishTime>
+    </File>
+    <File Include="Areas/HelpPage/Views/Help/DisplayTemplates/Parameters.cshtml">
+      <publishTime>06/20/2018 11:00:26</publishTime>
+    </File>
+    <File Include="Areas/HelpPage/Views/Help/DisplayTemplates/Samples.cshtml">
+      <publishTime>06/20/2018 11:00:26</publishTime>
+    </File>
+    <File Include="Areas/HelpPage/Views/Help/DisplayTemplates/TextSample.cshtml">
+      <publishTime>06/20/2018 11:00:26</publishTime>
+    </File>
+    <File Include="Areas/HelpPage/Views/Help/Index.cshtml">
+      <publishTime>06/20/2018 11:00:27</publishTime>
+    </File>
+    <File Include="Areas/HelpPage/Views/Shared/_Layout.cshtml">
+      <publishTime>06/20/2018 11:00:27</publishTime>
+    </File>
+    <File Include="Areas/HelpPage/Views/Web.config">
+      <publishTime>06/20/2018 11:00:27</publishTime>
+    </File>
+    <File Include="Areas/HelpPage/Views/_ViewStart.cshtml">
+      <publishTime>06/20/2018 11:00:27</publishTime>
+    </File>
+    <File Include="bin/Antlr3.Runtime.dll">
+      <publishTime>06/20/2018 10:59:41</publishTime>
+    </File>
+    <File Include="bin/Cache.Cm.MstOperation.dll">
+      <publishTime>06/20/2018 11:00:27</publishTime>
+    </File>
+    <File Include="bin/Cache.Cm.MstOperationOrder.dll">
+      <publishTime>06/20/2018 11:00:28</publishTime>
+    </File>
+    <File Include="bin/Cache.Cm.MstReagentType.dll">
+      <publishTime>06/20/2018 11:00:28</publishTime>
+    </File>
+    <File Include="bin/Cache.Cm.MstUser.dll">
+      <publishTime>06/20/2018 11:00:28</publishTime>
+    </File>
+    <File Include="bin/Cache.It.EnvIncubator.dll">
+      <publishTime>06/20/2018 11:00:28</publishTime>
+    </File>
+    <File Include="bin/Cache.It.EnvIsolator.dll">
+      <publishTime>06/20/2018 11:00:28</publishTime>
+    </File>
+    <File Include="bin/Cache.It.ItemIncubator.dll">
+      <publishTime>06/20/2018 11:00:28</publishTime>
+    </File>
+    <File Include="bin/Cache.It.ItemIsolator.dll">
+      <publishTime>06/20/2018 11:00:28</publishTime>
+    </File>
+    <File Include="bin/Cache.It.ItemReagent.dll">
+      <publishTime>06/20/2018 11:00:28</publishTime>
+    </File>
+    <File Include="bin/Cache.It.ItemSample.dll">
+      <publishTime>06/20/2018 11:00:29</publishTime>
+    </File>
+    <File Include="bin/Cache.Op.OpEquipment.dll">
+      <publishTime>06/20/2018 11:00:29</publishTime>
+    </File>
+    <File Include="bin/Cache.Rs.BreakDown.dll">
+      <publishTime>06/20/2018 11:00:29</publishTime>
+    </File>
+    <File Include="bin/Cache.Rs.ResTestResult.dll">
+      <publishTime>06/20/2018 11:00:29</publishTime>
+    </File>
+    <File Include="bin/InterSystems.Data.CacheClient.dll">
+      <publishTime>06/20/2018 11:00:29</publishTime>
+    </File>
+    <File Include="bin/JWT.dll">
+      <publishTime>06/20/2018 10:59:48</publishTime>
+    </File>
+    <File Include="bin/log4net.dll">
+      <publishTime>06/20/2018 10:59:51</publishTime>
+    </File>
+    <File Include="bin/Microsoft.AspNet.SignalR.Core.dll">
+      <publishTime>06/20/2018 10:59:56</publishTime>
+    </File>
+    <File Include="bin/Microsoft.AspNet.SignalR.SystemWeb.dll">
+      <publishTime>06/20/2018 10:59:57</publishTime>
+    </File>
+    <File Include="bin/Microsoft.Owin.Cors.dll">
+      <publishTime>06/20/2018 11:00:13</publishTime>
+    </File>
+    <File Include="bin/Microsoft.Owin.dll">
+      <publishTime>06/20/2018 11:00:12</publishTime>
+    </File>
+    <File Include="bin/Microsoft.Owin.Host.SystemWeb.dll">
+      <publishTime>06/20/2018 11:00:14</publishTime>
+    </File>
+    <File Include="bin/Microsoft.Owin.Security.dll">
+      <publishTime>06/20/2018 11:00:15</publishTime>
+    </File>
+    <File Include="bin/Microsoft.Web.Infrastructure.dll">
+      <publishTime>06/20/2018 11:00:15</publishTime>
+    </File>
+    <File Include="bin/Newtonsoft.Json.dll">
+      <publishTime>06/20/2018 11:00:18</publishTime>
+    </File>
+    <File Include="bin/Owin.dll">
+      <publishTime>06/20/2018 11:00:20</publishTime>
+    </File>
+    <File Include="bin/SterilityRestful.dll">
+      <publishTime>07/03/2018 16:23:12</publishTime>
+    </File>
+    <File Include="bin/System.Net.Http.Formatting.dll">
+      <publishTime>06/20/2018 10:59:59</publishTime>
+    </File>
+    <File Include="bin/System.Web.Cors.dll">
+      <publishTime>06/20/2018 10:59:52</publishTime>
+    </File>
+    <File Include="bin/System.Web.Helpers.dll">
+      <publishTime>06/20/2018 11:00:09</publishTime>
+    </File>
+    <File Include="bin/System.Web.Http.Cors.dll">
+      <publishTime>06/20/2018 11:00:03</publishTime>
+    </File>
+    <File Include="bin/System.Web.Http.dll">
+      <publishTime>06/20/2018 11:00:01</publishTime>
+    </File>
+    <File Include="bin/System.Web.Http.WebHost.dll">
+      <publishTime>06/20/2018 11:00:07</publishTime>
+    </File>
+    <File Include="bin/System.Web.Mvc.dll">
+      <publishTime>06/20/2018 10:59:52</publishTime>
+    </File>
+    <File Include="bin/System.Web.Optimization.dll">
+      <publishTime>06/20/2018 10:59:58</publishTime>
+    </File>
+    <File Include="bin/System.Web.Razor.dll">
+      <publishTime>06/20/2018 10:59:54</publishTime>
+    </File>
+    <File Include="bin/System.Web.WebPages.Deployment.dll">
+      <publishTime>06/20/2018 11:00:09</publishTime>
+    </File>
+    <File Include="bin/System.Web.WebPages.dll">
+      <publishTime>06/20/2018 11:00:09</publishTime>
+    </File>
+    <File Include="bin/System.Web.WebPages.Razor.dll">
+      <publishTime>06/20/2018 11:00:09</publishTime>
+    </File>
+    <File Include="bin/TIS.Imaging.ICImagingControl34.dll">
+      <publishTime>05/24/2017 15:07:32</publishTime>
+    </File>
+    <File Include="bin/WebGrease.dll">
+      <publishTime>06/20/2018 11:00:21</publishTime>
+    </File>
+    <File Include="bin/zh-Hans/System.Net.Http.Formatting.resources.dll">
+      <publishTime>06/20/2018 11:00:00</publishTime>
+    </File>
+    <File Include="bin/zh-Hans/System.Web.Helpers.resources.dll">
+      <publishTime>06/20/2018 11:00:10</publishTime>
+    </File>
+    <File Include="bin/zh-Hans/System.Web.Http.resources.dll">
+      <publishTime>06/20/2018 11:00:02</publishTime>
+    </File>
+    <File Include="bin/zh-Hans/System.Web.Http.WebHost.resources.dll">
+      <publishTime>06/20/2018 11:00:08</publishTime>
+    </File>
+    <File Include="bin/zh-Hans/System.Web.Mvc.resources.dll">
+      <publishTime>06/20/2018 10:59:52</publishTime>
+    </File>
+    <File Include="bin/zh-Hans/System.Web.Optimization.resources.dll">
+      <publishTime>06/20/2018 10:59:58</publishTime>
+    </File>
+    <File Include="bin/zh-Hans/System.Web.Razor.resources.dll">
+      <publishTime>06/20/2018 10:59:54</publishTime>
+    </File>
+    <File Include="bin/zh-Hans/System.Web.WebPages.Deployment.resources.dll">
+      <publishTime>06/20/2018 11:00:10</publishTime>
+    </File>
+    <File Include="bin/zh-Hans/System.Web.WebPages.Razor.resources.dll">
+      <publishTime>06/20/2018 11:00:10</publishTime>
+    </File>
+    <File Include="bin/zh-Hans/System.Web.WebPages.resources.dll">
+      <publishTime>06/20/2018 11:00:10</publishTime>
+    </File>
+    <File Include="Content/bootstrap.css">
+      <publishTime>06/20/2018 11:00:39</publishTime>
+    </File>
+    <File Include="Content/bootstrap.min.css">
+      <publishTime>06/20/2018 11:00:39</publishTime>
+    </File>
+    <File Include="Content/Site.css">
+      <publishTime>06/20/2018 11:00:39</publishTime>
+    </File>
+    <File Include="favicon.ico">
+      <publishTime>06/20/2018 11:00:41</publishTime>
+    </File>
+    <File Include="fonts/glyphicons-halflings-regular.eot">
+      <publishTime>06/20/2018 11:00:41</publishTime>
+    </File>
+    <File Include="fonts/glyphicons-halflings-regular.svg">
+      <publishTime>06/20/2018 11:00:41</publishTime>
+    </File>
+    <File Include="fonts/glyphicons-halflings-regular.ttf">
+      <publishTime>06/20/2018 11:00:41</publishTime>
+    </File>
+    <File Include="fonts/glyphicons-halflings-regular.woff">
+      <publishTime>06/20/2018 11:00:41</publishTime>
+    </File>
+    <File Include="Global.asax">
+      <publishTime>06/20/2018 11:00:42</publishTime>
+    </File>
+    <File Include="monitor.html">
+      <publishTime>06/20/2018 11:00:56</publishTime>
+    </File>
+    <File Include="packages.config">
+      <publishTime>06/20/2018 11:01:11</publishTime>
+    </File>
+    <File Include="Scripts/bootstrap.js">
+      <publishTime>06/20/2018 11:01:11</publishTime>
+    </File>
+    <File Include="Scripts/bootstrap.min.js">
+      <publishTime>06/20/2018 11:01:11</publishTime>
+    </File>
+    <File Include="Scripts/jquery-1.10.2.js">
+      <publishTime>06/20/2018 11:01:12</publishTime>
+    </File>
+    <File Include="Scripts/jquery-1.10.2.min.js">
+      <publishTime>06/20/2018 11:01:12</publishTime>
+    </File>
+    <File Include="Scripts/jquery-1.10.2.min.map">
+      <publishTime>06/20/2018 11:01:12</publishTime>
+    </File>
+    <File Include="Scripts/jquery.signalR-2.2.1.js">
+      <publishTime>06/20/2018 11:01:12</publishTime>
+    </File>
+    <File Include="Scripts/jquery.signalR-2.2.1.min.js">
+      <publishTime>06/20/2018 11:01:12</publishTime>
+    </File>
+    <File Include="Scripts/modernizr-2.6.2.js">
+      <publishTime>06/20/2018 11:01:12</publishTime>
+    </File>
+    <File Include="Scripts/respond.js">
+      <publishTime>06/20/2018 11:01:12</publishTime>
+    </File>
+    <File Include="Scripts/respond.min.js">
+      <publishTime>06/20/2018 11:01:12</publishTime>
+    </File>
+    <File Include="Scripts/_references.js">
+      <publishTime>06/20/2018 11:01:12</publishTime>
+    </File>
+    <File Include="Views/Home/Index.cshtml">
+      <publishTime>06/20/2018 11:01:13</publishTime>
+    </File>
+    <File Include="Views/Shared/Error.cshtml">
+      <publishTime>06/20/2018 11:01:13</publishTime>
+    </File>
+    <File Include="Views/Shared/_Layout.cshtml">
+      <publishTime>06/20/2018 11:01:13</publishTime>
+    </File>
+    <File Include="Views/Web.config">
+      <publishTime>06/20/2018 11:01:14</publishTime>
+    </File>
+    <File Include="Views/_ViewStart.cshtml">
+      <publishTime>06/20/2018 11:01:14</publishTime>
+    </File>
+    <File Include="Web.config">
+      <publishTime>07/03/2018 16:23:13</publishTime>
+    </File>
+  </ItemGroup>
+</Project>

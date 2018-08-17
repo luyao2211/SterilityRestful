@@ -1,0 +1,14 @@
+2018/03/27 10:09:26	::1             	ERR	ItemInfoMethod.ItemSampleCreateNewSample                    	数据库操作异常！ error information : <NOROUTINE>SetData+34^It.ItemSample *Cm.CommonLibrary
+   在 InterSystems.Data.CacheClient.CacheConnection.GetCommon()
+   在 InterSystems.Data.CacheClient.CacheConnection.MsgRunMethod(Int64 oref, String clsName, String mtdName, CacheMethodSignature s)
+   在 InterSystems.Data.CacheClient.CacheConnection.RunClassMethod(String clsName, String mtdName, CacheMethodSignature s)
+   在 InterSystems.Data.CacheTypes.CacheObject.RunClassMethodS(CacheConnection conn, String clsName, String mtdName, CacheMethodSignature s)
+   在 It.ItemSample.CreateNewSample(CacheConnection conn, String ObjCompany, String ObjectName, String ObjectType, String SamplingPeople, Nullable`1 SamplingTime, String Warning, String TerminalIP, String TerminalName, String revUserId)
+   在 SterilityRestful.DataMethod.ItemInfoMethod.ItemSampleCreateNewSample(DataConnection pclsCache, String ObjCompany, String ObjectName, String ObjectType, String SamplingPeople, DateTime SamplingTime, String Warning, String TerminalIP, String TerminalName, String revUserId) 位置 e:\Program\task\2016.7重大仪器专项\2016-3-8重大仪器专项（高性能智能化食品药品无菌检测仪）\SterilityRestful\SterilityRestful\SterilityRestful\DataMethod\ItemInfoMethod.cs:行号 509
+2018/03/27 10:09:31	::1             	ERR	ItemInfoMethod.ItemSampleCreateNewSample                    	数据库操作异常！ error information : <NOROUTINE>SetData+34^It.ItemSample *Cm.CommonLibrary
+   在 InterSystems.Data.CacheClient.CacheConnection.GetCommon()
+   在 InterSystems.Data.CacheClient.CacheConnection.MsgRunMethod(Int64 oref, String clsName, String mtdName, CacheMethodSignature s)
+   在 InterSystems.Data.CacheClient.CacheConnection.RunClassMethod(String clsName, String mtdName, CacheMethodSignature s)
+   在 InterSystems.Data.CacheTypes.CacheObject.RunClassMethodS(CacheConnection conn, String clsName, String mtdName, CacheMethodSignature s)
+   在 It.ItemSample.CreateNewSample(CacheConnection conn, String ObjCompany, String ObjectName, String ObjectType, String SamplingPeople, Nullable`1 SamplingTime, String Warning, String TerminalIP, String TerminalName, String revUserId)
+   在 SterilityRestful.DataMethod.ItemInfoMethod.ItemSampleCreateNewSample(DataConnection pclsCache, String ObjCompany, String ObjectName, String ObjectType, String SamplingPeople, DateTime SamplingTime, String Warning, String TerminalIP, String TerminalName, String revUserId) 位置 e:\Program\task\2016.7重大仪器专项\2016-3-8重大仪器专项（高性能智能化食品药品无菌检测仪）\SterilityRestful\SterilityRestful\SterilityRestful\DataMethod\ItemInfoMethod.cs:行号 509

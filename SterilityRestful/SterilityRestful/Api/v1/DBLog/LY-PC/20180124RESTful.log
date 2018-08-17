@@ -1,0 +1,8 @@
+2018/01/24 22:10:53	::1             	ERR	                                                            	数据库连接失败！ error information : Cache Security Error
+   在 InterSystems.Data.CacheClient.CacheADOConnection.Open()
+   在 InterSystems.Data.CacheClient.CacheConnection.Open(Boolean useCache)
+   在 InterSystems.Data.CacheClient.CacheConnection.Open()
+   在 SterilityRestful.CommonLibrary.DataConnection.Connect() 位置 e:\Program\task\2016.7重大仪器专项\2016-3-8重大仪器专项（高性能智能化食品药品无菌检测仪）\SterilityRestful\SterilityRestful\SterilityRestful\CommonLibrary\DataConnection.cs:行号 44
+2018/01/24 22:10:53	::1             	ERR	ResultMethod.ResTestResultCreateResult                      	数据库操作异常！ error information : Cache Security Error
+   在 SterilityRestful.CommonLibrary.DataConnection.Connect() 位置 e:\Program\task\2016.7重大仪器专项\2016-3-8重大仪器专项（高性能智能化食品药品无菌检测仪）\SterilityRestful\SterilityRestful\SterilityRestful\CommonLibrary\DataConnection.cs:行号 50
+   在 SterilityRestful.DataMethod.ResultMethod.ResTestResultCreateResult(DataConnection pclsCache, String ObjectNo, String ObjCompany, String ObjIncuSeq, String Reagent1, String Reagent2, DateTime ProcessStart, String TestPeople, String TerminalIP, String TerminalName, String revUserId) 位置 e:\Program\task\2016.7重大仪器专项\2016-3-8重大仪器专项（高性能智能化食品药品无菌检测仪）\SterilityRestful\SterilityRestful\SterilityRestful\DataMethod\ResultMethod.cs:行号 84

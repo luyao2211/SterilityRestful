@@ -1,0 +1,42 @@
+2018/01/03 19:07:27	::1             	ERR	Cm.MstReagentType.DeleteByPK                                	数据库操作异常！ error information : <CLASS DOES NOT EXIST>DeleteByPK+4^Cm.MstReagentType *Cm.MstReagenType
+   在 InterSystems.Data.CacheClient.CacheConnection.GetCommon()
+   在 InterSystems.Data.CacheClient.CacheConnection.MsgRunMethod(Int64 oref, String clsName, String mtdName, CacheMethodSignature s)
+   在 InterSystems.Data.CacheClient.CacheConnection.RunClassMethod(String clsName, String mtdName, CacheMethodSignature s)
+   在 Cm.MstReagentType.DeleteByPK(CacheConnection conn, String TypeId)
+   在 SterilityRestful.DataMethod.ItemInfoMethod.DeleteMstReagentType(DataConnection pclsCache, String TypeId) 位置 C:\Users\bme319\Documents\GitHub\SterilityRestful\SterilityRestful\SterilityRestful\DataMethod\ItemInfoMethod.cs:行号 872
+2018/01/03 19:07:32	::1             	ERR	Cm.MstReagentType.DeleteByPK                                	数据库操作异常！ error information : <CLASS DOES NOT EXIST>DeleteByPK+4^Cm.MstReagentType *Cm.MstReagenType
+   在 InterSystems.Data.CacheClient.CacheConnection.GetCommon()
+   在 InterSystems.Data.CacheClient.CacheConnection.MsgRunMethod(Int64 oref, String clsName, String mtdName, CacheMethodSignature s)
+   在 InterSystems.Data.CacheClient.CacheConnection.RunClassMethod(String clsName, String mtdName, CacheMethodSignature s)
+   在 Cm.MstReagentType.DeleteByPK(CacheConnection conn, String TypeId)
+   在 SterilityRestful.DataMethod.ItemInfoMethod.DeleteMstReagentType(DataConnection pclsCache, String TypeId) 位置 C:\Users\bme319\Documents\GitHub\SterilityRestful\SterilityRestful\SterilityRestful\DataMethod\ItemInfoMethod.cs:行号 872
+2018/01/03 19:07:33	::1             	ERR	Cm.MstReagentType.DeleteByPK                                	数据库操作异常！ error information : <CLASS DOES NOT EXIST>DeleteByPK+4^Cm.MstReagentType *Cm.MstReagenType
+   在 InterSystems.Data.CacheClient.CacheConnection.GetCommon()
+   在 InterSystems.Data.CacheClient.CacheConnection.MsgRunMethod(Int64 oref, String clsName, String mtdName, CacheMethodSignature s)
+   在 InterSystems.Data.CacheClient.CacheConnection.RunClassMethod(String clsName, String mtdName, CacheMethodSignature s)
+   在 Cm.MstReagentType.DeleteByPK(CacheConnection conn, String TypeId)
+   在 SterilityRestful.DataMethod.ItemInfoMethod.DeleteMstReagentType(DataConnection pclsCache, String TypeId) 位置 C:\Users\bme319\Documents\GitHub\SterilityRestful\SterilityRestful\SterilityRestful\DataMethod\ItemInfoMethod.cs:行号 872
+2018/01/03 19:08:26	::1             	ERR	Cm.MstReagentType.DeleteByPK                                	数据库操作异常！ error information : <CLASS DOES NOT EXIST>DeleteByPK+4^Cm.MstReagentType *Cm.MstReagenType
+   在 InterSystems.Data.CacheClient.CacheConnection.GetCommon()
+   在 InterSystems.Data.CacheClient.CacheConnection.MsgRunMethod(Int64 oref, String clsName, String mtdName, CacheMethodSignature s)
+   在 InterSystems.Data.CacheClient.CacheConnection.RunClassMethod(String clsName, String mtdName, CacheMethodSignature s)
+   在 Cm.MstReagentType.DeleteByPK(CacheConnection conn, String TypeId)
+   在 SterilityRestful.DataMethod.ItemInfoMethod.DeleteMstReagentType(DataConnection pclsCache, String TypeId) 位置 C:\Users\bme319\Documents\GitHub\SterilityRestful\SterilityRestful\SterilityRestful\DataMethod\ItemInfoMethod.cs:行号 872
+2018/01/03 19:09:50	::1             	ERR	Cm.MstReagentType.DeleteByPK                                	数据库操作异常！ error information : <CLASS DOES NOT EXIST>DeleteByPK+4^Cm.MstReagentType *Cm.MstReagenType
+   在 InterSystems.Data.CacheClient.CacheConnection.GetCommon()
+   在 InterSystems.Data.CacheClient.CacheConnection.MsgRunMethod(Int64 oref, String clsName, String mtdName, CacheMethodSignature s)
+   在 InterSystems.Data.CacheClient.CacheConnection.RunClassMethod(String clsName, String mtdName, CacheMethodSignature s)
+   在 Cm.MstReagentType.DeleteByPK(CacheConnection conn, String TypeId)
+   在 SterilityRestful.DataMethod.ItemInfoMethod.DeleteMstReagentType(DataConnection pclsCache, String TypeId) 位置 C:\Users\bme319\Documents\GitHub\SterilityRestful\SterilityRestful\SterilityRestful\DataMethod\ItemInfoMethod.cs:行号 872
+2018/01/03 19:10:03	::1             	ERR	Cm.MstReagentType.DeleteByPK                                	数据库操作异常！ error information : <CLASS DOES NOT EXIST>DeleteByPK+4^Cm.MstReagentType *Cm.MstReagenType
+   在 InterSystems.Data.CacheClient.CacheConnection.GetCommon()
+   在 InterSystems.Data.CacheClient.CacheConnection.MsgRunMethod(Int64 oref, String clsName, String mtdName, CacheMethodSignature s)
+   在 InterSystems.Data.CacheClient.CacheConnection.RunClassMethod(String clsName, String mtdName, CacheMethodSignature s)
+   在 Cm.MstReagentType.DeleteByPK(CacheConnection conn, String TypeId)
+   在 SterilityRestful.DataMethod.ItemInfoMethod.DeleteMstReagentType(DataConnection pclsCache, String TypeId) 位置 C:\Users\bme319\Documents\GitHub\SterilityRestful\SterilityRestful\SterilityRestful\DataMethod\ItemInfoMethod.cs:行号 872
+2018/01/03 19:14:03	::1             	ERR	Cm.MstReagentType.DeleteByPK                                	数据库操作异常！ error information : <CLASS DOES NOT EXIST>DeleteByPK+4^Cm.MstReagentType *Cm.MstReagenType
+   在 InterSystems.Data.CacheClient.CacheConnection.GetCommon()
+   在 InterSystems.Data.CacheClient.CacheConnection.MsgRunMethod(Int64 oref, String clsName, String mtdName, CacheMethodSignature s)
+   在 InterSystems.Data.CacheClient.CacheConnection.RunClassMethod(String clsName, String mtdName, CacheMethodSignature s)
+   在 Cm.MstReagentType.DeleteByPK(CacheConnection conn, String TypeId)
+   在 SterilityRestful.DataMethod.ItemInfoMethod.DeleteMstReagentType(DataConnection pclsCache, String TypeId) 位置 C:\Users\bme319\Documents\GitHub\SterilityRestful\SterilityRestful\SterilityRestful\DataMethod\ItemInfoMethod.cs:行号 872
